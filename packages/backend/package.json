@@ -6,8 +6,10 @@
     "@nestjs/common": "^6.8.4",
     "@nestjs/core": "^6.8.4",
     "@nestjs/platform-express": "^6.8.4",
+    "@nestjs/swagger": "^3.1.0",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^6.5.3"
+    "rxjs": "^6.5.3",
+    "swagger-ui-express": "^4.1.2"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.10.5",
